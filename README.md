@@ -1,7 +1,7 @@
 # Welcome to my profile
 
 
-16 years old, still learning, working on developing as many programming and computer science related skills as I can.
+17 years old, still learning, working on developing as many programming and computer science related skills as I can.
 
 
 <br> </br>
