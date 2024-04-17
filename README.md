@@ -3,7 +3,7 @@
 
 17 years old, still learning, working on developing as many programming and computer science related skills as I can.<img src="https://cdn3.emoji.gg/emojis/8194-pepe-yay.gif" width="32px" alt="pepe_yay">
 
-<img src="https://cdn3.emoji.gg/emojis/8163-stevegotcake.gif" width="64px" alt="SteveGotCake"> <b>Got Cake Baby</b>
+<!-- <img src="https://cdn3.emoji.gg/emojis/8163-stevegotcake.gif" width="64px" alt="SteveGotCake"> <b>Got Cake Baby</b> -->
 
 <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="150">
 
