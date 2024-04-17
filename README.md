@@ -5,7 +5,7 @@
 
 <img src="https://cdn3.emoji.gg/emojis/8163-stevegotcake.gif" width="64px" alt="SteveGotCake"> <b>Got Cake Baby</b>
 
-<<bimg align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="150">
+<img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="150">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v7bp1w32z6wo64visfjv4lao0&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=v7bp1w32z6wo64visfjv4lao0&redirect=true)
 
