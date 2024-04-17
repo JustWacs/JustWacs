@@ -3,7 +3,7 @@
 
 17 years old, still learning, working on developing as many programming and computer science related skills as I can.
 
-<img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="90">
+<img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="200">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v7bp1w32z6wo64visfjv4lao0&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=v7bp1w32z6wo64visfjv4lao0&redirect=true)
 
