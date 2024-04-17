@@ -1,7 +1,7 @@
 # Welcome to my profile
 
 
-17 years old, still learning, working on developing as many programming and computer science related skills as I can. <a href="https://emoji.gg/emoji/8194-pepe-yay"><img src="https://cdn3.emoji.gg/emojis/8194-pepe-yay.gif" width="20px" alt="pepe_yay"></a>
+17 years old, still learning, working on developing as many programming and computer science related skills as I can. <a href="https://emoji.gg/emoji/8194-pepe-yay"><img src="https://cdn3.emoji.gg/emojis/8194-pepe-yay.gif" width="32px" alt="pepe_yay"></a>
 
 <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="150">
 
